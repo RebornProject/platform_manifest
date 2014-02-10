@@ -458,13 +458,13 @@
   <project path="external/qrngd" name="CyanogenMod/android_external_qrngd" remote="github" revision="cm-11.0" />
 
   <!-- RebornProject -->
-  <project path="device/sony/kumquat" name="RebornProject/android_device_sony_kumquat" remote="github" revision="slim-4.4.2"
-  <project path="kernel/sony/u8500" name="RebornProject/kernel_sony_u8500" remote="github" revision="cm-11"
-  <project path="vendor/sony/kumquat" name="RebornProject/proprietary_vendor_sony" remote="github" revision="master"
-  <project path="hardware/semc" name="RebornProject/hardware_semc" remote="github" revision="master"
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3" name="RebornProject/arm-eabi-4.4.3" remote="github" revision="master"
-  <project path="external/koush/Superuser" name="RebornProject/Superuser" remote="github" revision="master"
-  <project path="vendor/slim" name="RebornProject/vendor_slim" remote="github" revision="kk4.4"
-  <project path="bootable/recovery" name="RebornProject/bootable_recovery" remote="github" revision="kk4.4"
+  <project path="device/sony/kumquat" name="RebornProject/android_device_sony_kumquat" remote="github" revision="slim-4.4.2" />
+  <project path="kernel/sony/u8500" name="RebornProject/kernel_sony_u8500" remote="github" revision="cm-11" />
+  <project path="vendor/sony/kumquat" name="RebornProject/proprietary_vendor_sony" remote="github" revision="master" />
+  <project path="hardware/semc" name="RebornProject/hardware_semc" remote="github" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3" name="RebornProject/arm-eabi-4.4.3" remote="github" revision="master" />
+  <project path="external/koush/Superuser" name="RebornProject/Superuser" remote="github" revision="master" />
+  <project path="vendor/slim" name="RebornProject/vendor_slim" remote="github" revision="kk4.4" />
+  <project path="bootable/recovery" name="RebornProject/bootable_recovery" remote="github" revision="kk4.4" />
  
 </manifest>
